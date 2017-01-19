@@ -1,0 +1,16 @@
+{
+  "data": {
+    "appId": 1,
+    "printerId": 1,
+    "doc": {
+      "vehicle": {
+        "vin": "0123456789abcdefg",
+        "stock": "9abcdefg",
+        "year": 2017,
+        "make": "Nissan",
+        "model": "Juke",
+        "color": "Gray"
+      }
+    }
+  }
+}
